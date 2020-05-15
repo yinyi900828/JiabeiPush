@@ -1,5 +1,5 @@
 {
-  "name": "yinyi900828/JiabeiPush",
+  "name": "yinyi900828/jiabei-push",
   "description": "send jiabei message",
   "require": {
     "php": ">=7.0"
