@@ -1,0 +1,19 @@
+{
+  "name": "composer/push",
+  "description": "send jiabei message",
+  "require": {
+    "php": ">=7.0"
+  },
+  "authors": [
+    {
+      "name": "蒋琦",
+      "email": "jiangqi@51ucar.cn"
+    }
+  ],
+  "autoload":{
+    "psr-4":{
+      "Composer\\Push\\": "Push/",
+      "Toplan\\PhpSms\\": "Agent/"
+    }
+  }
+}
