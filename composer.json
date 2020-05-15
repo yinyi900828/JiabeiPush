@@ -1,5 +1,5 @@
 {
-  "name": "composer/push",
+  "name": "yinyi900828/JiabeiPush",
   "description": "send jiabei message",
   "require": {
     "php": ">=7.0"
